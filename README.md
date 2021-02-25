@@ -1,4 +1,4 @@
-This repository contains my solutions to the programming assignments from Andrew Ng's Machine Learning course on coursera.org. All code is written in Octave/MATLAB. 
+My solutions to the programming assignments from Andrew Ng's Machine Learning course on coursera.org. All code is written in Octave/MATLAB. 
 
 Course material:
 - **Learning Algorithms (Supervised and Unsupervised)**: linear and logistic regression, neural networks, SVMs, k-means, anomaly detection, PCA
